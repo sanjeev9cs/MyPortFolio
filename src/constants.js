@@ -324,62 +324,61 @@ export const projects = [
     description: "Learn the fundamentals, structure, habitat, and importance of fish through easy step-by-step lessons. Build strong knowledge with interactive quizzes, real-world examples, and adaptive learning.",
     image: csprepLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-    github: "",
+    github: "https://github.com/sanjeev9cs/FlowSkill.git",
+    webapp: "https://skillflow-sanjeev9cs.vercel.app/"
   },
+  ,
   {
     id: 2,
-    title: "Password-Manager_MonGo-DB",
-    description: "The Password Manager stores the website URL, username, and masked (star-form) password in a list called your-passwords. Each entry includes an Action column with a delete option that asks for confirmation before removing the data.",
-    image: movierecLogo,
-    tags: ["React JS", "Tailwind", "MongoDB", "Postman", "Automation-Icons" , "Express"],
-    github: "https://github.com/sanjeev-kumar-cse1/Password-Manager_MonGo-DB.git",
-  },
-  {
-    id: 3,
     title: "Link-Shortner",
     description: "The URL Shortener takes the website URL and a preferred short URL from the user, then generates a unique short link.",
     image: npmLogo,
     tags: ["React JS", "Postman."],
     github: "https://github.com/sanjeev-kumar-cse1/Link-Shortner.git",
+    webapp: "https://shortlink-sanjeev9cs.netlify.app/shorten"
   },
   {
-    id: 4,
+    id: 3,
     title: "ToDo-List",
     description: "Users can create and save their own tasks or notes. They can edit or delete tasks anytime, and edited tasks are saved like new ones.",
     image: taskremLogo,
     tags: ["React", "Tailwind", "React-Icons"],
     github: "https://github.com/sanjeev-kumar-cse1/ToDo-List-.git",
+    webapp: "https://todo-sanjeev9cs.netlify.app/" 
   },
   {
-    id: 5,
+    id: 4,
     title: "Password-Manager_Local-Host",
     description: "Built a secure password manager using React.js and Locally store with CRUD functionality and API integration.",
     image: webverLogo,
     tags: ["React", "Postman", "Locally Storage", "Automation-Icons"],
     github: "https://github.com/sanjeev-kumar-cse1/Password-Manager_Local-Host.git",
+    webapp: "https://storepass-sanjeev9cs.netlify.app/"
   },
   {
-    id: 6,
+    id: 5,
     title: "Decryption-to-Encryption-Text-",
     description: "Developed encryption tool converting plaintext to ciphertext using AES and RSA algorithms. Integrated secure hashing mechanisms (SHA) to ensure data integrity and confidentiality",
     image: cmLogo,
     tags: ["AES", "RSA", "DES with Python", "Java", "JavaScript", "OpenSSL"],
     github: "https://github.com/sanjeev-kumar-cse1/Decryption-to-Eryption-Text-.git",
-  },
+    webapp: "https://texthash-sanjeev9cs.vercel.app/" },
   {
-    id: 7,
+    id: 6,
     title: "PassWord-Strength-Checker",
     description: "Evaluates password strength based on length, character complexity, and uniqueness. Detects weak, common, or compromised passwords to help prevent security breaches.",
     image: imagesearchLogo,
     tags: ["Password hashing function", "Python"],
     github: "https://github.com/sanjeev-kumar-checker.git",
+    webapp: "https://checkpass-sanjeev9cs.vercel.app/"
   },
   {
-    id: 8,
+    id: 7,
     title: "CCNA-Labs Solve",
     description: "CCNA Routing and Switching lab solving involves hands-on practice of configuring, troubleshooting, and verifying network setups using routers and switches.",
     image: removebgLogo,
     tags: ["OSPF", "RIP", "VLAN", "Subnetting","DHCP", "TCP/IP", "Wireless", "Troubleshooting" , "Switching & Routing" ],
     github: "https://github.com/sanjeev-kumar-cse1/CCNA-Basic-Labs.git",
+    webapp: "https://youtube.com/shorts/RZ0ch8mvxzE?si=XH2Uw_x3_GkBrQIG"
   },
 ];
