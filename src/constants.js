@@ -325,7 +325,7 @@ export const projects = [
     image: csprepLogo,
     tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/sanjeev9cs/FlowSkill.git",
-    webapp: "https://skillflow-sanjeev9cs.vercel.app/"
+    webapp: "https://skillflow-sanjeev9cs.netlify.app/"
   },
   ,
   {
